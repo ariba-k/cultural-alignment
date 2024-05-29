@@ -63,4 +63,4 @@ def main():
 if __name__ == "__main__":
     # main()
     # For direct running without CLI
-    run_experiments(models=['claude_2'])
+    run_experiments(models=['claude_3'])
